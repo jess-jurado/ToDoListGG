@@ -1,24 +1,23 @@
-
-
-```
 # TodoMVC Template
 
-This is a template for a TodoMVC application.
+> A template for a TodoMVC application.
 
 ## Usage
 
 To use this template, simply open the `index.html` file in a web browser.
 
-## Credits
+## Features
 
-Created by [Jess-Jurado](https://github.com/jess-jurado).
+- Add, edit, and remove tasks
+- Mark tasks as completed
+- Filter tasks by status (All, Active, Completed)
 
-### Notas:
-Recuerden reconstruir los módulos de Node
-```
-npm install
-```
+## Technologies Used
 
-Y para construir el build, recueren:
-```
-npm run build
+- HTML5
+- CSS3
+- JavaScript
+
+## Installation
+
+1. Clone the repository:
