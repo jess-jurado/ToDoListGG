@@ -21,7 +21,7 @@ To use this template, simply open the `index.html` file in a web browser.
 ## Installation
 
 1. Clone the repository:
-  git clone https://github.com/username/repo.git
+  git clone [https://github.com/jess-jurado/ToDoListGG]
 
 2. Navigate to the project directory:
   cd repo
@@ -33,10 +33,6 @@ To use this template, simply open the `index.html` file in a web browser.
 
 To build the project, run the following command:
   npm run build
-  
-## Demo
-
-Check out the live demo [here](https://your-demo-url.com).
 
 ## Credits
 
